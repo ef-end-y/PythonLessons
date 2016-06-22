@@ -52,9 +52,9 @@ class Point(object):
         screen = self.screen
         x = int(self.x)
         y = int(self.y)
-        if self.z <= screen.z_buffer[x][y]:
+        if self.z <= screen.z_buffer[y][x]:
             return
-        screen.z_buffer[x][y] = self.z
+        screen.z_buffer[y][x] = self.z
         screen.canvas[x, screen.height-y] = color or (255, 255, 255)
 
     def copy(self):
