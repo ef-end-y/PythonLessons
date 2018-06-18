@@ -7,6 +7,7 @@
 
 **sokoban.py** - tiny game Sokoban (https://en.wikipedia.org/wiki/Sokoban). Do not program like this - it's a hack 
 in a certain way. I made it for small size only.
+
 ☿ - a warehouse keeper
 ◯ - a box
 ◉ - a box on a storage location
