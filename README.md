@@ -20,6 +20,6 @@ in a certain way. I made it for small size only.
 
 ---
 
-** fire.py **
+**fire.py**
 
 ![sokoban playing](https://github.com/ef-end-y/PythonLessons/blob/master/images/fire.gif)
