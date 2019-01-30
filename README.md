@@ -1,6 +1,9 @@
 # PythonLessons
 **lesson3.py**, **lesson4.py**, **lesson5.py** - simple lessons for 3d rendering
 
+
+![lesson4](https://github.com/ef-end-y/PythonLessons/blob/master/images/lesson4.png)![lesson5](https://github.com/ef-end-y/PythonLessons/blob/master/images/lesson5.png)
+
 ---
 
 **chess.py** - a chess bot plays with itself. There are only pawns, rooks and kings, but you can add other pieces. This is an example how a bot thinks ahead and chooses the best move
@@ -22,4 +25,4 @@ in a certain way. I made it for small size only.
 
 **fire.py**
 
-![sokoban playing](https://github.com/ef-end-y/PythonLessons/blob/master/images/fire.gif)
+![fire](https://github.com/ef-end-y/PythonLessons/blob/master/images/fire.gif)
