@@ -1,19 +1,18 @@
 # PythonLessons
-**lesson3.py**, **lesson4.py**, **lesson5.py** - simple lessons for 3d rendering
+**lesson3.py**, **lesson4.py**, **lesson5.py** - low-level pixel-by-pixel rendering. It's shown how to draw a line, a triangle, paint over a polygon, impose a texture, etc.
 
 
 ![lesson4](https://github.com/ef-end-y/PythonLessons/blob/master/images/lesson4.png)![lesson5](https://github.com/ef-end-y/PythonLessons/blob/master/images/lesson5.png)
 
 ---
 
-**chess.py** - a chess bot plays with itself. There are only pawns, rooks and kings, but you can add other pieces. This is an example how a bot thinks ahead and chooses the best move
+**chess.py** - a chess bot plays with itself. There are only pawns, rooks and kings, but you can add other pieces. This is an example how the bot thinks ahead and chooses the best move
 
 ![chess playing](https://github.com/ef-end-y/PythonLessons/blob/master/images/chess.png)
 
 ---
 
-**sokoban.py** - tiny game Sokoban (https://en.wikipedia.org/wiki/Sokoban) as telegram bot. Do not program like this - it's a hack 
-in a certain way. I made it for small size only.
+**sokoban.py** is a telegram bot that plays Sokoban with you (https://en.wikipedia.org/wiki/Sokoban). Do not program like this - it's a hack in a certain way. I made it for small size only.
 
 ☿ - a warehouse keeper<br/>
 ◯ - a box<br/>
@@ -23,6 +22,6 @@ in a certain way. I made it for small size only.
 
 ---
 
-**fire.py**
+**fire.py** run it in console and get fire
 
 ![fire](https://github.com/ef-end-y/PythonLessons/blob/master/images/fire.gif)
