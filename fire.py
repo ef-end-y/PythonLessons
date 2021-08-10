@@ -1,4 +1,3 @@
-#! -*- coding: utf-8 -*-
 from random import randint
 from time import sleep
 
@@ -16,13 +15,10 @@ a = b = 0
 f = len(flame) - 1
 
 for i in range(500):
-    print "\033[2J\033[0;0H"
+    print("\033[2J\033[0;0H")
 
     for y in range(fh):
-        line = ''
-        for x in range(fw):
-            line += flame[fire[fh - y - 1][x]]
-        print line
+        print(''.join([flame[fire[fh - y - 1][x]] for x in range(fw)]))
 
     for x in range(fw):
         fade0 = int(0.15 * x * abs(x - fw)) + 1
